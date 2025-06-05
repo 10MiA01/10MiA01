@@ -1,7 +1,21 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNxYnJuanhrZXQyYWdpZ2xpNmZzeWt0Y3RyZHU2NTdkcHM4ZnVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E6jscXfv3AkWQ/giphy.gif" alt="Aggressive Typing Cat" width="400"/>
 </p>
+<h3 align="center">One paw on the keyboard, the other on Stack Overflow 🐾📚</h3>
 
+
+
+<p align="center">
+  <a href="mailto:amiklashevich20@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anastasiya-miklashevich-aa4572369/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfoliomia.onrender.com/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
 
 
 # Hi, I’m 10MiA01
@@ -28,14 +42,25 @@ Whether it’s web or desktop, I focus on creating clean, useful applications th
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=10Mia01&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#
+# 👨‍💻 My Coding Life
+
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjllYnFhMHJrZGx2aTJqazNsM2dhbjBkenptcHBwYWF6Zms1ZzMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" alt="GIF" width="800"/>
-</p><p align="center">
-  Me after successfully fixing a bug :)
+  <img src="https://media2.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="800"/>
 </p>
+
+<h3 align="center">Day: debugging, learning, pushing commits</h3>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/6heBQSjt2IoA8/giphy.gif" width="800"/>
+</p>
+
+<h3 align="center">Night: bug fixed, peace restored 🙂</h3>
+
+
 
 
 
